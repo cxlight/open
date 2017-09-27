@@ -6,3 +6,4 @@ adfadsf
 asdfadsf![]({{site.baseurl}}//png-IntelligentDevOps-by-StuQ.png)
 
 asdfadf
+![libryd]({{site.baseurl}}//LIBRYD_05.jpg)
